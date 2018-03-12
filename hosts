@@ -1,0 +1,123 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#   127.0.0.1       localhost
+#   ::1             localhost
+
+127.0.0.1 launcher01.kalypsomedia.com
+127.0.0.1 apps.skype.com
+
+127.0.0.1 www.kaspersky.ru
+127.0.0.1 www.drweb.ru
+127.0.0.1 avia.yandex.ru
+127.0.0.1 auto.ru
+127.0.0.1 audience.yandex.ru
+127.0.0.1 afisha.yandex.ru
+127.0.0.1 money.yandex.ru
+127.0.0.1 webmaster.yandex.ru
+127.0.0.1 yandex.ru
+127.0.0.1 direct.yandex.ru
+127.0.0.1 disk.yandex.ru
+127.0.0.1 delivery.yandex.ru
+127.0.0.1 calendar.yandex.ru
+127.0.0.1 kassa.yandex.ru
+127.0.0.1 www.kinopoisk.ru
+127.0.0.1 market.yandex.ru
+127.0.0.1 metrika.yandex.ru
+127.0.0.1 metro.yandex.ru
+127.0.0.1 music.yandex.ua
+127.0.0.1 n.maps.yandex.ru
+127.0.0.1 realty.yandex.ru
+127.0.0.1 news.yandex.ru
+127.0.0.1 translate.yandex.ru
+127.0.0.1 mail.yandex.ua
+127.0.0.1 pdd.yandex.ru
+127.0.0.1 travel.yandex.ru
+127.0.0.1 rabota.yandex.ru
+127.0.0.1 radio.yandex.ua
+127.0.0.1 rasp.yandex.ru
+127.0.0.1 partner.yandex.ru
+127.0.0.1 sprav.yandex.ru
+127.0.0.1 stat.yandex.ru
+127.0.0.1 taxi.yandex.ru
+127.0.0.1 tv.yandex.ru
+127.0.0.1 telephony.yandex.ru
+127.0.0.1 tech.yandex.ru
+127.0.0.1 fotki.yandex.ru
+127.0.0.1 dns.yandex.ru
+127.0.0.1 browser.yandex.ru
+127.0.0.1 speechkit.yandex.ru
+127.0.0.1 xml.yandex.ru
+127.0.0.1 yandexdatafactory.com
+127.0.0.1 avia.yandex.ua
+127.0.0.1 audience.yandex.ua
+127.0.0.1 afisha.yandex.ua
+127.0.0.1 yandex.ua
+127.0.0.1 disk.yandex.ua
+127.0.0.1 direct.yandex.ua
+127.0.0.1 sprav.yandex.ua
+127.0.0.1 zno.yandex.ua
+127.0.0.1 market.yandex.ua
+127.0.0.1 metrika.yandex.ua
+127.0.0.1 metro.yandex.ua
+127.0.0.1 news.yandex.ua
+127.0.0.1 translate.yandex.ua
+127.0.0.1 site.yandex.ua
+127.0.0.1 rabota.yandex.ua
+127.0.0.1 rasp.yandex.ua
+127.0.0.1 partner.yandex.ua
+127.0.0.1 passport.yandex.ua
+127.0.0.1 stat.yandex.ua
+127.0.0.1 tv.yandex.ua
+127.0.0.1 dns.yandex.ua
+127.0.0.1 browser.yandex.ua
+127.0.0.1 xml.yandex.ua
+
+127.0.0.1 vk.com
+127.0.0.1 www.vk.com
+127.0.0.1 yandex.ua
+127.0.0.1 maps.yandex.ua
+127.0.0.1 metrika.yandex.ua
+127.0.0.1 metrica.yandex.com
+127.0.0.1 metrica.yandex.ru
+127.0.0.1 yandex.ru
+127.0.0.1 www.yandex.ru
+127.0.0.1 yastatic.net
+127.0.0.1 clck.yandex.ru
+127.0.0.1 mc.yandex.ru
+127.0.0.1 mail.ru
+127.0.0.1 ok.mail.ru
+127.0.0.1 ad.mail.ru
+127.0.0.1 radar.imgsmail.ru
+127.0.0.1 rs.mail.ru
+127.0.0.1 ok.ru
+127.0.0.1 www.ok.ru
+127.0.0.1 yabs.yandex.ru
+127.0.0.1 yabs.yandex.ua
+127.0.0.1 an.yandex.ru
+127.0.0.1 an.yandex.ua
+127.0.0.1 odnoklassniki.ru
+
+127.0.1.1 vc.com
+127.0.1.1 yandex.ua
+127.0.1.1 maps.yandex.ua
+127.0.1.1 yandex.fr
+127.0.1.1 yandex.ua
+127.0.1.1 yandex.ru
+127.0.1.1 yastatic.net
